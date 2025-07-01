@@ -1,8 +1,8 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am masudrana735656](https://github.com/masudrana735656/masudrana735656/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm MASUD RANA</h1>
-<h3 align="center">Programmer |WEB DEVELOPER | Content Creator | Speed Learner</h3>
-<h4 align="center"> Student of Satkhira Polytecnic Institute</h4>
+<h3 align="center"> Programmer | WEB DEVELOPER | Content Creator | Speed Learner h3>
+<h4 align="center"> Student of Satkhira Polytecnic Institute </h4>
 
 <div align="center"
 
@@ -16,7 +16,7 @@ Skills: / Java / PYTHON / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning HTML, CSS, Git, GitHub, VS Code,  JavaScript, TypeScript, ECMAScript, JSON, DOM, API Integration, DaisyUI, shadcn UI, React JS, React Redux, Firebase, Node.js, Express.js, MongoDB and  Mongoose
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/masudrana735656)
+- 👨‍💻 All of my projects are available at [https://github.com/masudrana735656](https://github.com/masudrana735656)
 
 
 
@@ -29,7 +29,7 @@ Skills: / Java / PYTHON / REACT / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=61550693453420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://www.facebook.com/masud.rana.205528/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
@@ -103,13 +103,13 @@ Skills: / Java / PYTHON / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tutul181" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.linkedin.com/in/harun181/" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61550693453420" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
