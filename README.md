@@ -77,7 +77,7 @@ Skills: / Java / PYTHON / REACT / JS / HTML / CSS
 <hr/>
 <br/>
 
-## Github Stats -
+
 
 ## Github Stats -
 
@@ -93,8 +93,7 @@ Skills: / Java / PYTHON / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Masud's Graph](https://github-readme-activity-graph.vercel.app/graph?username=masudrana735656&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+![Masud's Graph](https://github-readme-activity-graph.vercel.app/graph?username=masudrana735656&custom_title=Masud's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br/>
 
 <br/>
